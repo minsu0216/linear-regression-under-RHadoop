@@ -1,0 +1,15 @@
+Package: rmrlm
+Version: 1.0.0
+Date: 2021-06-01
+Title: bigdata linear regression algorithm
+Authors@R: person("Minsu", "Kang", email = "kangminsu@soongsil.ac.kr")
+Depends: R (>= 3.4.0)
+Description: You can model linear regression in big data.
+License: Unlimited
+Packaged: 2021-01-05 09:42:41 UTC; Minsu.K
+Author: Minsu Kang
+Maintainer: Minsu Kang <kangminsu@soongsil.ac.kr>
+Repository: CRAN
+NeedsCompilation: no
+LazyData: TRUE
+

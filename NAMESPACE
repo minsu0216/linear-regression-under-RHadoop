@@ -1,0 +1,5 @@
+exportPattern("^[[:alpha:]]+")
+
+export(rmrlm)
+export(rmrlm.default)
+export(summary.rmrlm)
