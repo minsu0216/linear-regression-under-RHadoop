@@ -14,11 +14,17 @@ rmrlm(inputfile, input.format = "native", formula, xlev = NULL, combine = FALSE,
 
 ## Arguments
 inputfile A valid path to local data or a big.data.object
+
 input.format  List, If you analyze in the hadoop data, you have to give the format of data.
+
 formula an object of class "formula" (or one that can be coerced to that class): a symbolic description of the model to be fitted.
+
 xlev  if you have categorical variables, you must list xlev, else you don't have to do anything.
+
 combine logical; TRUE or FALSE(default)
+
 method  the method to be used. "qr" is using QR decomposition and "ne" is using normal equation method.
+
 ... Not used.
 
 ## Values
